@@ -1,0 +1,35 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].oneOf[1].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[4].oneOf[1].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].oneOf[1].use[3]!./assets/styles/admin.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************/
+:root {
+  --sidebar-bg: #001935;
+  --sidebar-menu-active-item-color:#fd1616;
+  --button-primary-bg: #fd1616;
+  --text-color: white;
+  --pagination-active-bg: #001935;
+  --sidebar-logo-color: white;
+  --sidebar-menu-color: whitesmoke;
+  --form-type-check-input-checked-bg:#fd1616;
+  --table-thead-sorted-marker-color: #b5a34b;
+  --content-search-icon-color: #fd1616;
+  --link-color:#001935;
+  --link-hover-color: #fd1616;
+  --border-radius:10px;
+  --content-search-input-bg:#DCDCDC;
+}
+
+.ea-dark-scheme {
+  --sidebar-menu-active-item-color:#fd1616;
+  --button-primary-bg: #fd1616;
+  --text-color: white;
+  --pagination-active-bg: #001935;
+  --sidebar-logo-color: white;
+  --sidebar-menu-color: whitesmoke;
+  --form-type-check-input-checked-bg:#fd1616;
+  --table-thead-sorted-marker-color: #b5a34b;
+  --content-search-icon-color: #fd1616;
+  --link-color:#fd1616;
+  --content-search-input-bg:#DCDCDC;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWRtaW4uY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBO0VBRUk7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUVBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtBQURKOztBQU1BO0VBSUk7RUFDQTtFQUNBO0VBQ0E7RUFFQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtBQVBKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hc3NldHMvc3R5bGVzL2FkbWluLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiOnJvb3R7XG5cbiAgICAtLXNpZGViYXItYmc6ICAjMDAxOTM1O1xuICAgIC0tc2lkZWJhci1tZW51LWFjdGl2ZS1pdGVtLWNvbG9yOiNmZDE2MTY7XG4gICAgLS1idXR0b24tcHJpbWFyeS1iZzogI2ZkMTYxNjtcbiAgICAtLXRleHQtY29sb3I6IHdoaXRlO1xuICAgIC0tcGFnaW5hdGlvbi1hY3RpdmUtYmc6ICAjMDAxOTM1O1xuICAgIC8vIC0tYnMtbmF2YmFyLXRvZ2dsZXItaWNvbi1iZzogdXJsKCdhc3NldHMvaW1hZ2VzL2Zhdmljb24tZXh0ZXJuYXRpYy1jb3VsZXVyLnBuZycpO1xuICAgIC0tc2lkZWJhci1sb2dvLWNvbG9yOiB3aGl0ZTtcbiAgICAtLXNpZGViYXItbWVudS1jb2xvcjogd2hpdGVzbW9rZTtcbiAgICAtLWZvcm0tdHlwZS1jaGVjay1pbnB1dC1jaGVja2VkLWJnOiNmZDE2MTY7IFxuICAgIC0tdGFibGUtdGhlYWQtc29ydGVkLW1hcmtlci1jb2xvcjogI2I1YTM0YjtcbiAgICAtLWNvbnRlbnQtc2VhcmNoLWljb24tY29sb3I6ICNmZDE2MTY7XG4gICAgLS1saW5rLWNvbG9yOiMwMDE5MzU7XG4gICAgLS1saW5rLWhvdmVyLWNvbG9yOiAjZmQxNjE2O1xuICAgIC0tYm9yZGVyLXJhZGl1czoxMHB4O1xuICAgIC0tY29udGVudC1zZWFyY2gtaW5wdXQtYmc6I0RDRENEQzsgXG5cbiAgICBcbn1cblxuLmVhLWRhcmstc2NoZW1lIHtcblxuICAgIC8vIERBUksgTU9ERVxuICAgIFxuICAgIC0tc2lkZWJhci1tZW51LWFjdGl2ZS1pdGVtLWNvbG9yOiNmZDE2MTY7XG4gICAgLS1idXR0b24tcHJpbWFyeS1iZzogI2ZkMTYxNjtcbiAgICAtLXRleHQtY29sb3I6IHdoaXRlO1xuICAgIC0tcGFnaW5hdGlvbi1hY3RpdmUtYmc6ICAjMDAxOTM1O1xuICAgIC8vIC0tYnMtbmF2YmFyLXRvZ2dsZXItaWNvbi1iZzogdXJsKCdhc3NldHMvaW1hZ2VzL2Zhdmljb24tZXh0ZXJuYXRpYy1jb3VsZXVyLnBuZycpO1xuICAgIC0tc2lkZWJhci1sb2dvLWNvbG9yOiB3aGl0ZTtcbiAgICAtLXNpZGViYXItbWVudS1jb2xvcjogd2hpdGVzbW9rZTtcbiAgICAtLWZvcm0tdHlwZS1jaGVjay1pbnB1dC1jaGVja2VkLWJnOiNmZDE2MTY7IFxuICAgIC0tdGFibGUtdGhlYWQtc29ydGVkLW1hcmtlci1jb2xvcjogI2I1YTM0YjtcbiAgICAtLWNvbnRlbnQtc2VhcmNoLWljb24tY29sb3I6ICNmZDE2MTY7XG4gICAgLS1saW5rLWNvbG9yOiNmZDE2MTY7XG4gICAgLS1jb250ZW50LXNlYXJjaC1pbnB1dC1iZzojRENEQ0RDO1xufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
